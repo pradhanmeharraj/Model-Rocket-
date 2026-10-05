@@ -1,7 +1,8 @@
 # Automated Model Rocket Launch & Recovery System
 
 ## Overview
-<img width="1805" height="405" alt="SIMULATION" src="https://github.com/user-attachments/assets/d2e8bb91-ea00-4249-9ac2-ea6082d39c2a" />
+<img width="1852" height="458" alt="image" src="https://github.com/user-attachments/assets/519fc268-721c-45a1-b382-575ee3163820" />
+
 
 
 This project focuses on the design and development of an **automated model rocket launch and recovery system**, integrating an electrical launch mechanism, guided launch stand, solid-propellant motor, aerodynamic rocket structure, and parachute-based recovery system.
