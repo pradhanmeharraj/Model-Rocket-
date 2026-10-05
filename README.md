@@ -1,7 +1,7 @@
 # Automated Model Rocket Launch & Recovery System
 
 ## Overview
-<img width="1492" height="745" alt="MODEL ROCKET IMAGE" src="https://github.com/user-attachments/assets/c50eb723-c599-4e2b-a43a-b0a1922c75a5" />
+<img width="1300" height="500" alt="MODEL ROCKET IMAGE" src="https://github.com/user-attachments/assets/c50eb723-c599-4e2b-a43a-b0a1922c75a5" />
 
 
 
