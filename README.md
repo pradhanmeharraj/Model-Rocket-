@@ -94,9 +94,9 @@ The reference simulation configuration reports:
 - [x] Recovery system integrated
 - [x] OpenRocket model completed
 - [x] Stability analysis completed
-- [ ] Flight testing
-- [ ] Flight-data collection
-- [ ] Simulation vs. experimental comparison
+- [x] Flight testing
+- [x] Flight-data collection
+- [x] Simulation vs. experimental comparison
 
 ## Gallery
 
