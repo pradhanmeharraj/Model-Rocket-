@@ -3,6 +3,7 @@
 ## Overview
 ![Uploading MODEL ROCKET IMAGE.jpg…]()
 
+
 This project focuses on the design and development of an **automated model rocket launch and recovery system**, integrating an electrical launch mechanism, guided launch stand, solid-propellant motor, aerodynamic rocket structure, and parachute-based recovery system.
 
 The system was developed as an integrated platform covering the complete sequence from **launch initiation to rocket recovery**.
